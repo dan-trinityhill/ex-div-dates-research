@@ -1,0 +1,127 @@
+company,code,dividend_units,dividend_ccy_if_not_pence,note
+3i Group Plc,III,,USD,
+AVEVA Group Plc,AVV,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Admiral Group Plc,ADML,,USD,
+Airtel Africa Plc,AAF,USD,USD,
+Alliance Witan Plc,ALWA,,USD,
+Anglo American Plc,AAL,,USD,
+Antofagasta Plc,ANTO,USD,USD,
+Ashtead Group Plc,AHT,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Associated British Foods Plc,ABF,,USD,
+AstraZeneca Plc,AZN,,USD,
+Auto Trader Group Plc,AUTOA,,USD,
+Avast Plc,AVST,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Aviva Plc,AV,,USD,
+B&M European Value Retail SA,BMEB,,USD,
+BAE Systems Plc,BAES,,USD,
+BP Plc,BP,,USD,
+BT Group Plc,BT,,USD,
+Babcock International Group Plc,BAB,,USD,
+Barclays Plc,BARC,,USD,
+Barratt Redrow Plc,BTRW,,USD,
+Beazley Plc,BEZG,,USD,
+Berkeley Group Holdings Plc,BKGH,,USD,
+British American Tobacco Plc,BATS,,USD,
+British Land Co Plc,BLND,,USD,
+Bunzl Plc,BNZL,,USD,
+Burberry Group Plc,BRBY,,USD,
+CRH Plc,CRH,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Centrica Plc,CNA,,USD,
+Coca-Cola Europacific Partners Plc,CCEPC,EUR,EUR,"shown as ""Coca-Cola UK (CCEPC)"" in the workbook; EUR dividends"
+Coca-Cola HBC AG,CCH,EUR,EUR,EUR dividends
+Compass Group Plc,CPG,,USD,
+Convatec Group Plc,CTEC,,USD,
+Croda International Plc,CRDA,,USD,
+DCC Plc,DCC,,USD,
+DS Smith Plc,SMDS,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Darktrace Plc,DARK,,USD,no dividend paid over the period (non-payer)
+Dechra Pharmaceuticals Plc,DPH,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Diageo Plc,DGE,,USD,
+Diploma Plc,DPLM,,USD,
+Endeavour Mining Plc,EDV,USD,USD,
+Entain Plc,ENT,,USD,
+Evraz Plc,EVRE,,USD,suspended; removed from the index Mar 2022
+Experian Plc,EXPN,,USD,
+F&C Investment Trust Plc,FCIT,,USD,
+Ferguson Plc,FERG,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Flutter Entertainment Plc,FLTR,,USD,no dividend paid over the period (non-payer)
+Frasers Group Plc,FRAS,,USD,no dividend paid over the period (non-payer)
+Fresnillo Plc,FRES,,USD,"dividends in the workbook look like US cents, treated as pence (small weight)"
+GSK Plc,GSK,,USD,
+Games Workshop Group Plc,GAW,,USD,
+Glencore Plc,GLEN,USD,USD,
+HSBC Holdings Plc,HSBA,,USD,
+Haleon Plc,HLN,,USD,
+Halma Plc,HLMA,,USD,
+Hargreaves Lansdown Plc,HL.,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Hikma Pharmaceuticals Plc,HIK,USD,USD,
+Hiscox Ltd,HSX,,USD,
+Howden Joinery Group Plc,HWDN,,USD,
+ICG Plc,ICGIN,,USD,
+IMI Plc,IMI,,USD,
+ITV Plc,ITV,,USD,
+Imperial Brands Plc,IMB,,USD,
+Informa Plc,INF,,USD,
+InterContinental Hotels Group Plc,IHG,,USD,
+International Consolidated Airlines Group SA,ICAG,EUR,EUR,EUR dividends
+Intertek Group Plc,ITRK,,USD,
+J Sainsbury Plc,SBRY,,USD,
+JD Sports Fashion Plc,JD,,USD,
+Johnson Matthey Plc,JMAT,,USD,
+Kingfisher Plc,KGF,,USD,
+Land Securities Group Plc,LAND,,USD,
+Legal & General Group Plc,LGEN,,USD,
+Lloyds Banking Group Plc,LLOY,,USD,
+London Stock Exchange Group Plc,LSEG,,USD,
+LondonMetric Property Plc,LMPL,,USD,
+M&G Plc,MNG,,USD,
+Marks & Spencer Group Plc,MKS,,USD,
+Meggitt Plc,MGGT,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Melrose Industries Plc,MRON,,USD,
+Metlen Energy & Metals Plc,MTLN,EUR,EUR,EUR dividends
+Mondi Plc,MNDI,,USD,
+NatWest Group Plc,NWG,,USD,
+National Grid Plc,NG,,USD,
+Next Plc,NXT,,USD,
+Ocado Group Plc,OCDO,,USD,no dividend paid over the period (non-payer)
+Pearson Plc,PSON,,USD,
+Pershing Square Holdings Ltd,PSHP,USD,USD,
+Persimmon Plc,PSN,,USD,
+Polar Capital Technology Trust Plc,PCT,,USD,no dividend paid over the period (non-payer)
+Polymetal International Plc,POLY,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Prudential Plc,PRU,,USD,
+RELX Plc,REL,,USD,
+RS Group Plc,RS1R,,USD,
+Reckitt Benckiser Group Plc,RKT,,USD,
+Rentokil Initial Plc,RTO,,USD,
+Rightmove Plc,RMV,,USD,
+Rio Tinto Plc,RIO,,USD,
+Rolls-Royce Holdings Plc,RR,,USD,
+Royal Mail Plc,RMG,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+SSE Plc,SSE,,USD,
+Sage Group Plc,SGE,,USD,
+Schroders Plc,SDR,,USD,
+Scottish Mortgage Investment Trust Plc,SMT,,USD,
+Segro Plc,SGRO,,USD,
+Severn Trent Plc,SVT,,USD,
+Shell Plc,SHEL,,USD,
+Smith & Nephew Plc,SN,,USD,
+Smiths Group Plc,SMIN,,USD,
+Smurfit Kappa Group Plc,SKG,,USD,"MISSING: no rows in ""all ex divs"" (no longer listed in London) - add its ex-div rows to the workbook to include it"
+Spirax Group Plc,SPX,,USD,
+St James's Place Plc,SJP,,USD,
+Standard Chartered Plc,STAN,,USD,
+Standard Life Plc,SDLF,,USD,formerly Phoenix Group; its history is under SDLF
+Taylor Wimpey Plc,TW,,USD,
+Tesco Plc,TSCO,,USD,
+Tritax Big Box REIT Plc,BBOXT,,USD,
+UNITE Group Plc,UTG,,USD,
+Unilever Plc,ULVR,,USD,
+United Utilities Group Plc,UU,,USD,
+Vistry Group Plc,VTYV,,USD,
+Vodafone Group Plc,VOD,,USD,
+WPP Plc,WPP,,USD,
+Weir Group Plc,WEIR,,USD,
+Whitbread Plc,WTB,,USD,
+abrdn Plc,ABDN,,USD,
+easyJet Plc,EZJ,,USD,

@@ -1,0 +1,53 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.secrets/
+keys/
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Generated results
+output*
+
+# Editors and Windows
+.vscode/
+.idea/
+Thumbs.db
+
+# additional, nikkei specific
+cache/
+runs/
+
+# bass specific
+tmp/
+single_event_runs/
+pngs/
+*.log
+*.err
+govt_bond_auctions_research/
+scripts/
+
+# exdiv specific
+FTSE/ares_runs/
+reports/
+
+# --- ignore everything at the repo root except the FTSE folder ---
+# (rules above still apply INSIDE FTSE, e.g. __pycache__/, FTSE/ares_runs/)
+/*
+!/.gitignore
+!/FTSE/
+
+*.pdf
+
+# notebook-builder scripts (not needed to run the notebooks)
+FTSE/build_*.py
